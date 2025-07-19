@@ -15,27 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Привет, я [Твоё Имя]!
+# 👋 Hi, I'm Randajam
 
-Я — студент 2 курса Прикладной математики и Информатики, который развивается в области DS/ML/AI.
+I'm a second-year student majoring in Apllied Mathematics and Computer Science, developing my skills in DS/ML/AI.
 
-## 🚀 Что я делаю сейчас:
-- Учусь в Школе 21 (ветка DS/ML)
-- Развиваю проекты на Python
-- Изучаю Deep Learning
-- Практикуюсь с Kaggle
-- Прокачиваю английский язык
+## 🚀 What I'm working on right now:
+- Studying at School21 (DS/ML track)
+- Building projects in Python
+- Learning Deep Learning
+- Practicing on Kaggle
+- Improving my English skills
 
-## 🧩 Мои навыки:
+## 🧩 My skills:
 - Python: pandas, numpy, sklearn, matplotlib
-- PyTorch / TensorFlow (база)
+- PyTorch / TensorFlow (basic level)
 - Bash, Git, Conda, Virtualenv
-- C / C++ (университет)
+- C / C++ (university)
 
-## 📈 Цели:
-- Стать Junior ML Engineer
-- Участвовать в хакатонах и open-source
-- Решать реальные задачи с помощью ИИ
+## 📈 My goals:
+- Become a Junior ML Engineer
+- Practicipate in hackathons and open-sourse projects
+- Solve real-world problem with AI
 
 ## 📫 Связаться со мной:
 - Email: [твоя почта]
