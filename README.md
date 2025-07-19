@@ -37,9 +37,9 @@ I'm a second-year student majoring in Apllied Mathematics and Computer Science, 
 - Practicipate in hackathons and open-sourse projects
 - Solve real-world problem with AI
 
-## 📫 Связаться со мной:
-- Email: [твоя почта]
-- GitHub: [ссылка]
-- Telegram: [ник]
+## 📫 Contact me:
+- Email: []
+- GitHub: []
+- Telegram: []
 
 ---
