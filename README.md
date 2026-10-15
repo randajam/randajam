@@ -1,23 +1,8 @@
 ## Hi there 👋
 
-<!--
-**randajam/randajam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Randajam
 
-I'm a second-year student majoring in Apllied Mathematics and Computer Science, developing my skills in DS/ML/AI.
+I'm a third-year student majoring in Apllied Mathematics and Computer Science, developing my skills in DS/ML/AI.
 
 ## 🚀 What I'm working on right now:
 - Studying at School21 (DS/ML track)
@@ -38,8 +23,7 @@ I'm a second-year student majoring in Apllied Mathematics and Computer Science, 
 - Solve real-world problem with AI
 
 ## 📫 Contact me:
-- Email: []
-- GitHub: []
-- Telegram: []
+- Email: man_suno98@mail.ru
+- GitHub: https://github.com/randajam
 
 ---
